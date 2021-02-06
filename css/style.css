@@ -6,7 +6,7 @@
 
 body {
     font: 300 1.2em/1.6 roboto, sans-serif;
-    color: #303030;
+    color: #FA8072;
     text-rendering: optimizeLegibility;
     margin: 1.5em;
     -webkit-font-smoothing: antialiased;
@@ -27,7 +27,7 @@ nav a {
 }
 
 nav a:hover {
-    background: #407096;
+    background: #FA8072;
 }
 
 nav a.active {
